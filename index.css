@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    background-image: url(images/table.png);
+    background-size: cover;
+    font-weight: bold;
+    color: rgb(157, 157, 220);
+    text-align: center;
+    
+} 
+
+h1 {
+    color: rgb(223, 26, 26);
+    font-weight: bold;
+    font-size: xx-large;
+    
+} 
+
+#message-el {
+    font-style: san-serif;
+}
+
+button {
+    color: rgb(56, 42, 101);
+    width: 200px;
+    background: rgb(250, 227, 97);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: rgb(21, 1, 1);
+    border-radius: 2px;
+    margin-bottom: 5px;
+    margin-top: 4px;
+
+}
